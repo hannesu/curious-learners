@@ -30,4 +30,10 @@ We who are about to learn stuff, salute you!
     <td>+-</td>
     <td>X</td>
   </tr>
+  <tr>
+	<td>VM</td>
+	<td>X</td>
+	<td>X</td>
+	<td>X</td>
+  </tr>
 </table>
