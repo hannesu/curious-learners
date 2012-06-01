@@ -45,7 +45,7 @@ We who are about to learn stuff, salute you!
   <tr>
 	<td>ER</td>
 	<td>X</td>
-	<td>-</td>
-	<td>-</td>
+	<td>X</td>
+	<td>X</td>
   </tr>
 </table>
