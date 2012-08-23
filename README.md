@@ -76,4 +76,10 @@ We who are about to learn stuff, salute you!
     	<td>X</td>
     	<td>X</td>
   </tr>  
+    <tr>
+    	<td>VP</td>
+    	<td>X</td>
+    	<td>X</td>
+    	<td>X</td>
+  </tr> 
 </table>
