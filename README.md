@@ -1,4 +1,4 @@
 curious-learners
 ================
 
-[Scala Track](/affected/curious-learners/scala/README.md)
+[Scala Track](/affected/curious-learners/tree/master/scala)
