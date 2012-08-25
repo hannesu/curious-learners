@@ -1,8 +1,23 @@
-curious-learners
-================
+# curious-learners
 
-Scala track
------------
+## Scala track
+
+On this collaborative learning track, we're familiarizing ourselves with Scala,
+used in a sane and idiomatic way. We're starting off doing one exercise a week,
+with the responsibility for preparing the exercise and materials rotating
+among the participants.
+
+Mikael will arrange an one-hour telco for this every Friday, for now. We'll 
+spend half of it going over the previous exercise, and half on the next one.
+
+This is an agile learning track, so the participants will make whatever changes
+are necessary whenever they are necessary, to make things work.
+
+Everybody is welcome to join, but we're not actively advertising until we're
+happy that we can scale this process with the amount of people we're starting
+with.
+
+### Joining the track
 
 1. Create your GitHub accounts.
 
@@ -18,6 +33,7 @@ Scala track
 		http://download.scala-ide.org/nightly-update-juno-master-29x
 	- Install Git plugin (Eclipse update site):
 		http://download.eclipse.org/egit/updates
+    
 4. Update this file with your initials.
 
 5. Submit a pull request for your changes.
