@@ -1,8 +1,6 @@
-curious-learners
-================
+# curious-learners
 
-DevOps track
-------------
+## DevOps track
 
 1. Create your GitHub account, fork this repository.
 
@@ -24,10 +22,11 @@ through the AWS Console.
   <tr>
     <td>MG</td>
     <td>X</td>
+    <td>X</td>
   </tr>
 </table>
 
-Suggested topics:
+### Suggested topics:
 
 1. Cloud basics with Amazon AWS
 
@@ -35,11 +34,13 @@ Suggested topics:
 
 3. Build and binary artifact management with Jenkins CI + Sonatype Nexus
 
-4. Lab #1: 10 EC2 micro instances, add Puppet, set up a Java web apps
+4. Lab #1: Integrate a Git repo to Jenkins and Nexus
 
-5. Managing database schema changes with Liquibase and MCollective
+5. Lab #2: Set up 10 EC2 micro instances, Puppet conf, add Java web apps
 
-6. OS, JVM and application monitoring with RHQ and logstash
+6. Managing database schema changes with Liquibase and MCollective
 
-7. Managing your dev environment with Vagrant and Puppet
+7. OS, JVM and application monitoring with RHQ and logstash
+
+8. Managing your dev environment with Vagrant and Puppet
 
